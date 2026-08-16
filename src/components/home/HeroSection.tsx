@@ -38,9 +38,9 @@ export default function HeroSection() {
         {/* Promotional Sub-Headline */}
         <div className="text-xl sm:text-2xl md:text-3xl font-bold mt-3 drop-shadow-lg">
           <span className="text-white">Get High-Quality Streaming for Just </span>
-          <Link href="#pricing" className="text-amber-400 hover:text-amber-300 transition-colors">
+          <a href="#pricing" className="text-amber-400 hover:text-amber-300 transition-colors cursor-pointer">
             $4.2/Month!
-          </Link>
+          </a>
         </div>
 
         {/* Description */}
@@ -68,14 +68,14 @@ export default function HeroSection() {
             <span>Get Free Trial</span>
             <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
           </a>
-          <Link
+          <a
             href="#pricing"
             aria-label="View plans"
-            className="py-4 px-10 text-base sm:text-lg font-bold text-white bg-transparent border-[1.5px] border-white hover:bg-white/10 transition-all duration-300 flex items-center justify-center gap-2.5 hover:scale-105 hover:-translate-y-1 active:scale-95"
+            className="py-4 px-10 text-base sm:text-lg font-bold text-white bg-transparent border-[1.5px] border-white hover:bg-white/10 transition-all duration-300 flex items-center justify-center gap-2.5 hover:scale-105 hover:-translate-y-1 active:scale-95 cursor-pointer"
           >
             <List className="h-5 w-5" />
             <span>View Plans</span>
-          </Link>
+          </a>
         </div>
 
         {/* Feature Tags */}

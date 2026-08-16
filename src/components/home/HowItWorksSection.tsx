@@ -18,12 +18,12 @@ export default function HowItWorksSection() {
           </h2>
           <p className="text-stone-300 text-sm sm:text-base mt-4 leading-relaxed max-w-2xl mx-auto">
             Get your{" "}
-            <Link
+            <a
               href="#pricing"
-              className="text-[#d32f2f] font-semibold hover:text-red-400 transition-colors"
+              className="text-[#d32f2f] font-semibold hover:text-red-400 transition-colors cursor-pointer"
             >
               IPTV subscription
-            </Link>{" "}
+            </a>{" "}
             in 3 easy steps. Choose the right plan, complete the payment, and receive your login details. Within minutes you can enjoy your favorite programs.
           </p>
         </div>
@@ -47,21 +47,21 @@ export default function HowItWorksSection() {
               <div className="bg-white text-stone-900 p-8 rounded-2xl shadow-xl relative border border-stone-200"
               >
                 <h3 className="text-xl font-extrabold text-[#d32f2f] mb-3">
-                  <Link
+                  <a
                     href="#pricing"
-                    className="hover:text-red-700 transition-colors"
+                    className="hover:text-red-700 transition-colors cursor-pointer"
                   >
                     Place your order.
-                  </Link>
+                  </a>
                 </h3>
                 <p className="text-stone-600 text-sm leading-relaxed">
                   After placing your order from our{" "}
-                  <Link
+                  <a
                     href="#pricing"
-                    className="text-[#d32f2f] font-semibold hover:text-red-700 transition-colors"
+                    className="text-[#d32f2f] font-semibold hover:text-red-700 transition-colors cursor-pointer"
                   >
                     pricing plans
-                  </Link>
+                  </a>
                   , you will receive your subscription details within 20 minutes at most by email or{" "}
                   <Link
                     href="/contact"
@@ -221,21 +221,21 @@ export default function HowItWorksSection() {
               <div className="space-y-4"
               >
                 <h3 className="text-2xl sm:text-3xl font-extrabold text-[#d32f2f] leading-snug">
-                  <Link
+                  <a
                     href="#pricing"
-                    className="hover:text-red-400 transition-colors"
+                    className="hover:text-red-400 transition-colors cursor-pointer"
                   >
                     We Offer You A Complete IPTV Subscription Experience
-                  </Link>
+                  </a>
                 </h3>
                 <p className="text-stone-300 text-sm sm:text-base leading-relaxed">
                   Enjoy uninterrupted IPTV 4K/HD with an{" "}
-                  <Link
+                  <a
                     href="#pricing"
-                    className="text-[#d32f2f] font-semibold hover:text-red-400 transition-colors"
+                    className="text-[#d32f2f] font-semibold hover:text-red-400 transition-colors cursor-pointer"
                   >
                     IPTV subscription
-                  </Link>{" "}
+                  </a>{" "}
                   from IPTVDoor. Choose from 1, 3, 6 or 12 months packages and experience continuous entertainment with full access to our{" "}
                   <Link
                     href="/channels"
@@ -269,12 +269,12 @@ export default function HowItWorksSection() {
                     +50,000 live channels and +120,000 films & series
                   </Link>{" "}
                   for the ultimate viewing experience. Check out our{" "}
-                  <Link
+                  <a
                     href="#pricing"
-                    className="text-[#d32f2f] font-semibold hover:text-red-400 transition-colors"
+                    className="text-[#d32f2f] font-semibold hover:text-red-400 transition-colors cursor-pointer"
                   >
                     subscription plans
-                  </Link>{" "}
+                  </a>{" "}
                   to start watching immediately.
                 </p>
               </div>

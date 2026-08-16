@@ -66,7 +66,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`dark ${inter.variable} ${geist.variable}`}>
+    <html lang="en" className={`dark scroll-smooth ${inter.variable} ${geist.variable}`}>
       <head>
       </head>
       <body className="bg-background text-on-background font-body-lg min-h-screen flex flex-col antialiased selection:bg-primary-container selection:text-on-primary-container">
