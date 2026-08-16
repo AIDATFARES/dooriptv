@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
     date: "August 14, 2026",
     author: "IPTVDoor",
     category: "Guides",
-    coverImage: "/blog/iptv-epg-wrong-time-1.png",
+    coverImage: "/blog/iptv-epg-wrong-time-1.webp",
     content: `An IPTV Electronic Program Guide (EPG) is supposed to make live television easier to navigate by showing what is currently playing and what is coming next. But sometimes the programs appear one, two, or even several hours earlier or later than they should.
 
 If your IPTV EPG shows the wrong time while the channels themselves work normally, the problem is often related to time-zone configuration rather than the IPTV stream itself.
@@ -28,7 +28,7 @@ Your device, IPTV player, EPG data, or provider can all influence how program ti
 
 This guide explains why an IPTV EPG may show the wrong time and what you can check to correct it.
 
-![IPTV Electronic Program Guide EPG Interface with Time Zone Display](/blog/iptv-epg-wrong-time-1.png)
+![IPTV Electronic Program Guide EPG Interface with Time Zone Display](/blog/iptv-epg-wrong-time-1.webp)
 
 ## What Is an IPTV EPG?
 
@@ -93,7 +93,7 @@ For example, if your device is physically located in New York but its time zone 
 
 Correcting the device time zone is therefore the first troubleshooting step. If you need help locating system settings on specific hardware, visit our [device setup guides](/installation).
 
-![Smart TV and Android TV Box Device Time Zone Settings](/blog/iptv-epg-wrong-time-2.png)
+![Smart TV and Android TV Box Device Time Zone Settings](/blog/iptv-epg-wrong-time-2.webp)
 
 ## 2. Check the IPTV Player's Time-Zone Settings
 
@@ -150,7 +150,7 @@ However, do not randomly adjust the offset.
 
 A manual correction can make the guide appear correct temporarily while creating another problem when the provider changes its EPG data or when Daylight Saving Time begins or ends.
 
-![EPG Time Shift and Hour Offset Comparison](/blog/iptv-epg-wrong-time-3.png)
+![EPG Time Shift and Hour Offset Comparison](/blog/iptv-epg-wrong-time-3.webp)
 
 ## 5. Daylight Saving Time Can Cause a One-Hour Difference
 
@@ -243,7 +243,7 @@ After clearing the cache:
 4. Wait for the guide to finish updating.
 5. Compare several channels.
 
-![Clearing IPTV Player EPG Cache and Refreshing Guide](/blog/iptv-epg-wrong-time-4.png)
+![Clearing IPTV Player EPG Cache and Refreshing Guide](/blog/iptv-epg-wrong-time-4.webp)
 
 ## 10. Check Your Device Clock
 
@@ -340,7 +340,7 @@ Tell them:
 
 This information makes it easier to determine whether the problem is related to the EPG source.
 
-![IPTV EPG Wrong Time Troubleshooting Fix Checklist](/blog/iptv-epg-wrong-time-5.png)
+![IPTV EPG Wrong Time Troubleshooting Fix Checklist](/blog/iptv-epg-wrong-time-5.webp)
 
 ## Quick IPTV EPG Time-Zone Fix Checklist
 
@@ -397,7 +397,7 @@ If every channel has the same time difference, configuration is a strong possibi
 
 The most important rule is simple: check the time zone before changing complicated IPTV settings.
 
-![IPTV Program Guide Clock Synchronization Visual](/blog/iptv-epg-wrong-time-6.png)`
+![IPTV Program Guide Clock Synchronization Visual](/blog/iptv-epg-wrong-time-6.webp)`
   },
   {
     id: "3",
@@ -407,7 +407,7 @@ The most important rule is simple: check the time zone before changing complicat
     date: "August 14, 2026",
     author: "IPTVDoor",
     category: "Guides",
-    coverImage: "/blog/iptv-buffering-only-at-night-1.png",
+    coverImage: "/blog/iptv-buffering-only-at-night-1.webp",
     content: `If your IPTV works perfectly during the day but starts buffering every evening, you are not necessarily dealing with a problem on your device.
 
 Nighttime buffering is one of the more confusing IPTV problems because everything may appear normal earlier in the day. Your internet connection works, websites load normally, and the same channels may play smoothly in the morning. Then, during the evening, streams begin freezing, lowering in quality, or constantly loading.
@@ -418,7 +418,7 @@ Network congestion, Wi-Fi interference, server load, stream bitrate, device perf
 
 This guide explains why IPTV may buffer specifically at night and what you can check before assuming that your entire IPTV setup is faulty.
 
-![IPTV Evening Nighttime Stream Buffering Troubleshooting](/blog/iptv-buffering-only-at-night-1.png)
+![IPTV Evening Nighttime Stream Buffering Troubleshooting](/blog/iptv-buffering-only-at-night-1.webp)
 
 ## Why Does IPTV Buffer More at Night?
 
@@ -468,7 +468,7 @@ If buffering improves immediately, your home network is probably part of the pro
 
 You can also check your router's connected-device list to see which devices are consuming bandwidth.
 
-![Home Network Bandwidth Competition Across Multiple Devices](/blog/iptv-buffering-only-at-night-2.png)
+![Home Network Bandwidth Competition Across Multiple Devices](/blog/iptv-buffering-only-at-night-2.webp)
 
 ## 2. Wi-Fi Can Become Less Reliable in the Evening
 
@@ -493,7 +493,7 @@ An Ethernet connection is particularly useful for troubleshooting because it rem
 
 If IPTV becomes stable over Ethernet but continues buffering over Wi-Fi, your wireless network deserves further investigation.
 
-![Wi-Fi vs Wired Ethernet Connection for IPTV Streaming](/blog/iptv-buffering-only-at-night-3.png)
+![Wi-Fi vs Wired Ethernet Connection for IPTV Streaming](/blog/iptv-buffering-only-at-night-3.webp)
 
 ## 3. The IPTV Server May Be Busier at Night
 
@@ -524,7 +524,7 @@ Try several different channels as well.
 
 If only a few channels buffer at night, the issue may be related to specific streams rather than your entire connection.
 
-![IPTV Server and Network Infrastructure Peak Hours Congestion](/blog/iptv-buffering-only-at-night-4.png)
+![IPTV Server and Network Infrastructure Peak Hours Congestion](/blog/iptv-buffering-only-at-night-4.webp)
 
 ## 4. Your Internet Speed May Not Be the Real Problem
 
@@ -687,7 +687,7 @@ Try a lower-resolution version of the same channel if one is available.
 
 If the lower-resolution version remains stable, you have identified an important clue.
 
-![Testing HD and 4K Stream Resolution Performance](/blog/iptv-buffering-only-at-night-5.png)
+![Testing HD and 4K Stream Resolution Performance](/blog/iptv-buffering-only-at-night-5.webp)
 
 ## 12. ISP Routing Can Affect Streaming
 
@@ -763,7 +763,7 @@ Explain that the issue appears at specific times and provide examples.
 
 A recurring evening pattern may be more useful to technical support than a one-time speed test.
 
-![IPTV Nighttime Buffering Troubleshooting Checklist](/blog/iptv-buffering-only-at-night-6.png)
+![IPTV Nighttime Buffering Troubleshooting Checklist](/blog/iptv-buffering-only-at-night-6.webp)
 
 ## IPTV Buffering at Night: Quick Checklist
 
@@ -850,7 +850,7 @@ The key is to troubleshoot systematically and change one variable at a time. Thi
     date: "August 14, 2026",
     author: "IPTVDoor",
     category: "Guides",
-    coverImage: "/blog/iptv-channels-load-wont-play-1.png",
+    coverImage: "/blog/iptv-channels-load-wont-play-1.webp",
     content: `Seeing your IPTV channel list load correctly but getting no playback when you select a channel can be confusing. The playlist appears to be working, the channel names are visible, and sometimes the electronic program guide even loads — yet the video refuses to start.
 
 This type of problem does not always mean that your IPTV setup is broken.
@@ -859,7 +859,7 @@ The cause can be related to the IPTV player, the stream itself, your internet co
 
 In this guide, we will go through the most common reasons IPTV channels load but won't play and the practical checks you can perform before contacting support.
 
-![IPTV Channel List Loading but Video Stream Failing](/blog/iptv-channels-load-wont-play-1.png)
+![IPTV Channel List Loading but Video Stream Failing](/blog/iptv-channels-load-wont-play-1.webp)
 
 ## What Does It Mean When IPTV Channels Load but Won't Play?
 
@@ -921,7 +921,7 @@ A wired connection can eliminate Wi-Fi interference and help determine whether t
 
 If IPTV works over Ethernet but not Wi-Fi, the IPTV player itself may not be the problem.
 
-![Testing IPTV Network Connection and Restarting Streaming App](/blog/iptv-channels-load-wont-play-2.png)
+![Testing IPTV Network Connection and Restarting Streaming App](/blog/iptv-channels-load-wont-play-2.webp)
 
 ## 3. Restart the IPTV Application
 
@@ -1009,7 +1009,7 @@ If the same channel works immediately in another compatible player, investigate 
 
 If it fails in multiple players on the same device, investigate the stream, device, network, or account instead.
 
-![Hardware and Software Decoder Settings Troubleshooting](/blog/iptv-channels-load-wont-play-3.png)
+![Hardware and Software Decoder Settings Troubleshooting](/blog/iptv-channels-load-wont-play-3.webp)
 
 ## 8. Check Hardware and Software Video Decoding
 
@@ -1075,7 +1075,7 @@ The ideal setting depends on:
 - Stream bitrate
 - Player implementation
 
-![Clearing IPTV App Cache and Adjusting Buffer Settings](/blog/iptv-channels-load-wont-play-4.png)
+![Clearing IPTV App Cache and Adjusting Buffer Settings](/blog/iptv-channels-load-wont-play-4.webp)
 
 ## 11. Clear the IPTV App Cache
 
@@ -1136,7 +1136,7 @@ Possible causes include:
 
 Testing another device is one of the fastest ways to narrow down the problem. Check our guide on [compatible devices](/installation) for performance benchmarks.
 
-![Testing IPTV Player on Compatible Streaming Devices](/blog/iptv-channels-load-wont-play-5.png)
+![Testing IPTV Player on Compatible Streaming Devices](/blog/iptv-channels-load-wont-play-5.webp)
 
 ## 14. Check Whether the IPTV Server Is Experiencing Problems
 
@@ -1197,7 +1197,7 @@ If every channel stops after a similar amount of time, investigate your network 
 
 If only one channel does it, the individual stream may be responsible.
 
-![IPTV Playback Troubleshooting Checklist and Summary](/blog/iptv-channels-load-wont-play-6.png)
+![IPTV Playback Troubleshooting Checklist and Summary](/blog/iptv-channels-load-wont-play-6.webp)
 
 ## Quick IPTV Playback Troubleshooting Checklist
 
@@ -1282,7 +1282,7 @@ For IPTVDoor users, keeping your streaming device, IPTV player, and network prop
     date: "August 14, 2026",
     author: "IPTVDoor",
     category: "Guides",
-    coverImage: "/blog/iptv-black-screen-audio-works-1.png",
+    coverImage: "/blog/iptv-black-screen-audio-works-1.webp",
     content: `Have you ever opened an IPTV channel and heard the audio normally while the screen remained completely black?
 
 This can be frustrating, especially when other channels appear to work correctly. The good news is that a black screen with working audio usually gives you an important clue: the stream may be reaching your device, but the video portion is not being decoded or displayed correctly.
@@ -1291,7 +1291,7 @@ The problem can be related to the [IPTV player](/installation), video codec, har
 
 In this guide, we explain the most common causes and show you how to troubleshoot the problem step by step.
 
-![IPTV Black Screen with Working Audio Troubleshooting](/blog/iptv-black-screen-audio-works-1.png)
+![IPTV Black Screen with Working Audio Troubleshooting](/blog/iptv-black-screen-audio-works-1.webp)
 
 ## What Does a Black IPTV Screen With Audio Mean?
 
@@ -1341,7 +1341,7 @@ The issue is more likely to involve:
 - Application configuration
 - Device limitations
 
-![Hardware and Software Decoder Settings](/blog/iptv-black-screen-audio-works-2.png)
+![Hardware and Software Decoder Settings](/blog/iptv-black-screen-audio-works-2.webp)
 
 ## 2. Switch Between Hardware and Software Decoding
 
@@ -1395,7 +1395,7 @@ If your IPTV player shows technical information about the stream, check whether 
 
 If an HD or H.264 version of the same channel is available and works correctly, that is a useful indication that the issue may be related to video compatibility.
 
-![Testing IPTV Players and Codec Compatibility](/blog/iptv-black-screen-audio-works-3.png)
+![Testing IPTV Players and Codec Compatibility](/blog/iptv-black-screen-audio-works-3.webp)
 
 ## 4. Test the Same IPTV Channel With Another Player
 
@@ -1456,7 +1456,7 @@ For external streaming devices, also check:
 - HDR settings
 - Device firmware
 
-![Checking Display Output and IPTV Player Updates](/blog/iptv-black-screen-audio-works-4.png)
+![Checking Display Output and IPTV Player Updates](/blog/iptv-black-screen-audio-works-4.webp)
 
 ## 7. Update Your IPTV Player
 
@@ -1562,7 +1562,7 @@ When contacting support, provide useful information such as:
 
 This gives support much more information than simply saying "the IPTV is not working."
 
-![IPTV Black Screen Troubleshooting Checklist](/blog/iptv-black-screen-audio-works-5.png)
+![IPTV Black Screen Troubleshooting Checklist](/blog/iptv-black-screen-audio-works-5.webp)
 
 ## Quick Troubleshooting Checklist
 

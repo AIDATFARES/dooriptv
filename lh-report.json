@@ -758,7 +758,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/blog/iptv-epg-wrong-time-1.png",
+            "url": "http://localhost:3000/blog/iptv-epg-wrong-time-1.webp",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -777,7 +777,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/blog/iptv-buffering-only-at-night-1.png",
+            "url": "http://localhost:3000/blog/iptv-buffering-only-at-night-1.webp",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -796,7 +796,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/blog/iptv-channels-load-wont-play-1.png",
+            "url": "http://localhost:3000/blog/iptv-channels-load-wont-play-1.webp",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1014,7 +1014,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F0.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F0.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1032,7 +1032,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F1.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F1.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1050,7 +1050,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F10-National-Geographic-Channel.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F10-National-Geographic-Channel.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1068,7 +1068,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F10.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F10.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1086,7 +1086,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F11.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F11.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1104,7 +1104,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F13.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F13.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1122,7 +1122,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F14.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F14.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1140,7 +1140,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F15.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F15.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1158,7 +1158,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F16%20(1).png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F16%20(1).webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1176,7 +1176,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F17.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F17.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1194,7 +1194,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F2.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F2.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1212,7 +1212,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F20-disney.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F20-disney.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1230,7 +1230,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F21.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F21.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1248,7 +1248,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F3.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F3.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1266,7 +1266,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F4.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F4.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1284,7 +1284,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F5.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F5.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1338,7 +1338,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2F8f516efb87c6d10460e585bb938d8fe1.jpg&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2F8f516efb87c6d10460e585bb938d8fe1.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1410,7 +1410,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie1-e1736574874664.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie1-e1736574874664.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1428,7 +1428,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie10-e1736574986310.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie10-e1736574986310.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1446,7 +1446,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie12-e1736575004499.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie12-e1736575004499.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1464,7 +1464,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie13-e1736575043741.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie13-e1736575043741.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1482,7 +1482,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie18-e1736575106703.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie18-e1736575106703.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1500,7 +1500,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie19-e1736575114454.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie19-e1736575114454.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1518,7 +1518,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie2-e1736574891758.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie2-e1736574891758.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1536,7 +1536,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie23-e1736575149450.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie23-e1736575149450.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1554,7 +1554,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie24-e1736575160161.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie24-e1736575160161.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1572,7 +1572,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie3-e1736574911385.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie3-e1736574911385.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1590,7 +1590,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie4-e1736574926107.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie4-e1736574926107.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1608,7 +1608,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie5-e1736574938665.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie5-e1736574938665.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1626,7 +1626,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie6-e1736574948584.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie6-e1736574948584.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1644,7 +1644,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie7-e1736574959152.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie7-e1736574959152.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1662,7 +1662,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie8-e1736574969539.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie8-e1736574969539.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1680,7 +1680,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie9-e1736574978899.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie9-e1736574978899.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1716,7 +1716,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie20-e1736575123747.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie20-e1736575123747.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1734,7 +1734,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie22-e1736575140704.jpg.webp&w=320&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fmovies%2Fnew-movie22-e1736575140704.webp.webp&w=320&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1752,7 +1752,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1235.jpg&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1235.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1770,7 +1770,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1727368362913.jpg&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1727368362913.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1788,7 +1788,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1727368362933.jpg&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1727368362933.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1806,7 +1806,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1727368362971.jpg&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2F1727368362971.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1824,7 +1824,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2Fff25.jpg&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fdawryate%2Fff25.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1914,7 +1914,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/favicon.png",
+            "url": "http://localhost:3000/favicon.webp",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -1932,7 +1932,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/favicon.png",
+            "url": "http://localhost:3000/favicon.webp",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -2076,7 +2076,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F6.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F6.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -2094,7 +2094,7 @@
             "entity": "localhost"
           },
           {
-            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F7.png&w=240&q=75",
+            "url": "http://localhost:3000/_next/image?url=%2Fbrands%2F7.webp&w=240&q=75",
             "sessionTargetType": "page",
             "protocol": "http/1.1",
             "cache": "none",
@@ -5547,15 +5547,15 @@
         ],
         "items": [
           {
-            "url": "http://localhost:3000/blog/iptv-buffering-only-at-night-1.png",
+            "url": "http://localhost:3000/blog/iptv-buffering-only-at-night-1.webp",
             "totalBytes": 559712
           },
           {
-            "url": "http://localhost:3000/blog/iptv-channels-load-wont-play-1.png",
+            "url": "http://localhost:3000/blog/iptv-channels-load-wont-play-1.webp",
             "totalBytes": 536625
           },
           {
-            "url": "http://localhost:3000/blog/iptv-epg-wrong-time-1.png",
+            "url": "http://localhost:3000/blog/iptv-epg-wrong-time-1.webp",
             "totalBytes": 524365
           },
           {

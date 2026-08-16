@@ -30,11 +30,11 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/favicon.png", type: "image/png" },
+      { url: "/favicon.webp", type: "image/webp" },
       { url: "/favicon.ico" },
     ],
-    shortcut: "/favicon.png",
-    apple: "/favicon.png",
+    shortcut: "/favicon.webp",
+    apple: "/favicon.webp",
   },
   openGraph: {
     title: "IPTVDoor - Premium 4K Streaming",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     siteName: "IPTVDoor",
     images: [
       {
-        url: "/og-image.png",
+        url: "/og-image.webp",
         width: 1200,
         height: 630,
         alt: "IPTVDoor Premium IPTV Service",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "IPTVDoor - Premium 4K Streaming",
     description: "Ultimate 4K IPTV Experience. Access +50,000 Channels, +120,000 Films & Series, and 200,000+ VODs.",
-    images: ["/og-image.png"],
+    images: ["/og-image.webp"],
   },
 };
 

@@ -31,7 +31,7 @@ export default function Home() {
       <MovieStrips />
       <BrandMarquee 
         imagesFolder="dawryate" 
-        images={["1235.jpg", "1727368362913.jpg", "1727368362933.jpg", "1727368362971.jpg", "ff25.jpg"]}
+        images={["1235.webp", "1727368362913.webp", "1727368362933.webp", "1727368362971.webp", "ff25.webp"]}
         cardClassName="flex-shrink-0 w-[140px] h-[200px] md:w-[200px] md:h-[280px] relative rounded-xl overflow-hidden shadow-2xl border border-white/10 bg-[#141624] hover:border-[#d32f2f]/60 transition-all duration-300 group"
         imageClassName="object-cover rounded-xl"
       />

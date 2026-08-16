@@ -77,7 +77,7 @@ export default function HowItWorksSection() {
               <div className="overflow-hidden rounded-2xl bg-white/5 border border-white/10 shadow-xl"
               >
                 <Image
-                  src="/place-your-order.png"
+                  src="/place-your-order.webp"
                   alt="Place your order online"
                   width={600}
                   height={380}

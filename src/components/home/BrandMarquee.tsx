@@ -14,9 +14,9 @@ export default function BrandMarquee({
   imageClassName
 }: BrandMarqueeProps) {
   const defaultBrands = [
-    "0.png", "1.png", "10-National-Geographic-Channel.png", "10.png", "11.png",
-    "13.png", "14.png", "15.png", "16 (1).png", "17.png", "2.png", "20-disney.png",
-    "21.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"
+    "0.webp", "1.webp", "10-National-Geographic-Channel.webp", "10.webp", "11.webp",
+    "13.webp", "14.webp", "15.webp", "16 (1).webp", "17.webp", "2.webp", "20-disney.webp",
+    "21.webp", "3.webp", "4.webp", "5.webp", "6.webp", "7.webp", "8.webp", "9.webp"
   ];
 
   const brandList = images || defaultBrands;
