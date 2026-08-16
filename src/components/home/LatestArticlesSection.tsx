@@ -5,9 +5,9 @@ import { ArrowRight } from "lucide-react";
 export default function LatestArticlesSection() {
   // Select featured articles from our blog dataset
   const featuredSlugs = [
+    "iptv-keeps-disconnecting-why-it-happens-and-how-to-fix-it",
     "iptv-epg-not-working-causes-and-fixes",
     "iptv-epg-wrong-time-time-zone",
-    "iptv-buffering-only-at-night",
   ];
 
   const latestPosts = featuredSlugs
