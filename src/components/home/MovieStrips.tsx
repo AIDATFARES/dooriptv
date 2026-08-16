@@ -5,19 +5,19 @@ export default function MovieStrips() {
   const row1 = [
     "46803563a8701aa615fb654fb4ef7639.webp", "6da9e60dfd50f7ad0e5e344ee94e4c7e.webp", 
     "8f516efb87c6d10460e585bb938d8fe1.webp", "bf75b83425cb9b5d998ae005d5ee7147.webp", 
-    "dffs.webp", "f33fe284009a72dbbd043f18f05ace39.webp", "new-movie1-e1736574874664.webp.webp", 
-    "new-movie10-e1736574986310.webp.webp", "new-movie12-e1736575004499.webp.webp", 
-    "new-movie13-e1736575043741.webp.webp", "new-movie18-e1736575106703.webp.webp", 
-    "new-movie19-e1736575114454.webp.webp", "new-movie2-e1736574891758.webp.webp"
+    "dffs.webp", "f33fe284009a72dbbd043f18f05ace39.webp", "new-movie1-e1736574874664.jpg.webp", 
+    "new-movie10-e1736574986310.jpg.webp", "new-movie12-e1736575004499.jpg.webp", 
+    "new-movie13-e1736575043741.jpg.webp", "new-movie18-e1736575106703.jpg.webp", 
+    "new-movie19-e1736575114454.jpg.webp", "new-movie2-e1736574891758.jpg.webp"
   ];
 
   const row2 = [
-    "new-movie20-e1736575123747.webp.webp", "new-movie22-e1736575140704.webp.webp", 
-    "new-movie23-e1736575149450.webp.webp", "new-movie24-e1736575160161.webp.webp", 
-    "new-movie3-e1736574911385.webp.webp", "new-movie4-e1736574926107.webp.webp", 
-    "new-movie5-e1736574938665.webp.webp", "new-movie6-e1736574948584.webp.webp", 
-    "new-movie7-e1736574959152.webp.webp", "new-movie8-e1736574969539.webp.webp", 
-    "new-movie9-e1736574978899.webp.webp", "oMutDMODnbCZf46w0dK4wncQmDB.webp"
+    "new-movie20-e1736575123747.jpg.webp", "new-movie22-e1736575140704.jpg.webp", 
+    "new-movie23-e1736575149450.jpg.webp", "new-movie24-e1736575160161.jpg.webp", 
+    "new-movie3-e1736574911385.jpg.webp", "new-movie4-e1736574926107.jpg.webp", 
+    "new-movie5-e1736574938665.jpg.webp", "new-movie6-e1736574948584.jpg.webp", 
+    "new-movie7-e1736574959152.jpg.webp", "new-movie8-e1736574969539.jpg.webp", 
+    "new-movie9-e1736574978899.jpg.webp", "oMutDMODnbCZf46w0dK4wncQmDB.webp"
   ];
 
   return (
