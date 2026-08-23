@@ -22,7 +22,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: "/blog/iptv-keeps-disconnecting-1.webp",
     content: `Few things are more frustrating than sitting down to watch a movie, sports event, or TV channel only for your IPTV connection to suddenly disconnect.
 
-If your IPTV keeps disconnecting, the problem is not necessarily your IPTV application or provider. Connection drops can be caused by unstable Wi-Fi, network congestion, device settings, outdated applications, DNS problems, overloaded servers, or insufficient bandwidth.
+If your IPTV keeps disconnecting, the problem is not necessarily your IPTV application or provider. Connection drops can be caused by unstable Wi-Fi, network congestion, [device settings](/installation), outdated applications, DNS problems, overloaded servers, or insufficient bandwidth.
 
 The good news is that most IPTV connection problems can be identified with a few simple tests.
 
@@ -71,7 +71,7 @@ Wi-Fi is convenient, but it is not always the most stable option for streaming.
 
 Walls, distance from the router, interference from other wireless devices, and crowded Wi-Fi channels can all affect the connection.
 
-If possible, connect your Smart TV, Android TV box, or streaming device directly to your router using an Ethernet cable.
+If possible, connect your [Smart TV](/installation), [Android TV](/installation) box, or streaming device directly to your router using an Ethernet cable.
 
 A wired connection can provide:
 
@@ -103,7 +103,7 @@ Multiple devices sharing the same internet connection can affect IPTV stability.
 For example, someone in your home might be:
 
 - Downloading large files
-- Watching several 4K streams
+- Watching several [4K](/channels) streams
 - Playing online games
 - Uploading large files
 - Using cloud backups
@@ -132,13 +132,13 @@ For example:
 
 This pattern can help determine whether the issue is related to network congestion rather than your device.
 
-If your IPTV buffering or connection problems happen specifically at night, our guide on [IPTV Buffering Only at Night: Why It Happens](/blog/iptv-buffering-only-at-night) can provide additional troubleshooting steps.
+If your [IPTV buffering](/blog/iptv-buffering-only-at-night) or connection problems happen specifically at night, our guide on [IPTV Buffering Only at Night: Why It Happens](/blog/iptv-buffering-only-at-night) can provide additional troubleshooting steps.
 
 ## 6. Check Your IPTV Application
 
 An outdated or malfunctioning IPTV application can also cause connection problems.
 
-Check whether your IPTV player has an available update from its official source. If you are also having EPG issues, check out [IPTV EPG Not Working: Common Causes and How to Fix It](/blog/iptv-epg-not-working-causes-and-fixes).
+Check whether your IPTV player has an available update from its official source. If you are also having [EPG](/blog/iptv-epg-not-working-causes-and-fixes) issues, check out [IPTV EPG Not Working: Common Causes and How to Fix It](/blog/iptv-epg-not-working-causes-and-fixes).
 
 If the application is already updated, try:
 
@@ -156,7 +156,7 @@ Official application sources are generally safer and reduce the risk of compatib
 
 Sometimes the network is perfectly fine but the streaming device is struggling.
 
-Older Smart TVs, TV boxes, and streaming sticks may have limited memory or processing power.
+Older Smart TVs, [TV boxes](/installation), and streaming sticks may have limited memory or processing power.
 
 Signs of a device-related problem include:
 
@@ -222,11 +222,11 @@ In this situation, there may be nothing wrong with your device.
 
 ![IPTV server connection problem](/blog/iptv-keeps-disconnecting-4.webp)
 
-## 12. Check Your Subscription Status
+## 12. Check Your [Subscription](/pricing) Status
 
 An inactive or expired account can sometimes cause connection or authorization problems.
 
-Check your account status through your provider's official customer area or contact their support team.
+Check your account status through your provider's official customer area or contact their [support](/contact) team.
 
 Make sure your subscription is still active and that the account has not reached a device or connection limit. You can review your [Pricing](/pricing) plan if needed.
 
@@ -303,7 +303,7 @@ Bandwidth, Wi-Fi stability, or device hardware may be the limiting factor.
 
 ## Why does my IPTV keep disconnecting every few minutes?
 
-Frequent disconnections can be caused by unstable Wi-Fi, network congestion, insufficient bandwidth, device limitations, application problems, or an unstable IPTV server. Check our [FAQ](/faq) page for more common questions.
+Frequent disconnections can be caused by unstable Wi-Fi, network congestion, insufficient bandwidth, device limitations, application problems, or an unstable IPTV server. Check our [FAQ](/faq) page for more [common questions](/faq).
 
 ## Why does IPTV work on Wi-Fi but not Ethernet?
 
@@ -348,7 +348,7 @@ Once you identify whether the problem comes from your network, device, applicati
     author: "IPTVDoor",
     category: "Guides",
     coverImage: "/blog/iptv-epg-not-working-1.webp",
-    content: `The Electronic Program Guide (EPG) is one of the most useful features of an IPTV setup. Instead of browsing through channels blindly, an EPG lets you see what is currently playing, what is coming next, and what programs are scheduled later.
+    content: `The Electronic Program Guide (EPG) is one of the most useful [features](/channels) of an [IPTV setup](/installation). Instead of browsing through channels blindly, an EPG lets you see what is currently playing, what is coming next, and what programs are scheduled later.
 
 But sometimes the IPTV EPG does not load at all, shows incorrect information, displays the wrong time, or stops updating.
 
@@ -441,7 +441,7 @@ Check for:
 
 If your provider recently changed its EPG source, the old address may no longer work.
 
-The safest option is to obtain the current EPG information directly from your legitimate IPTV service provider. If you need help with your provider's details, [contact support](/contact) or review your [Pricing](/pricing) details to make sure your subscription is active.
+The safest option is to obtain the current EPG information directly from your legitimate IPTV service provider. If you need help with your provider's details, [contact support](/contact) or review your [Pricing](/pricing) details to make sure your [subscription](/pricing) is active.
 
 ![IPTV application settings showing an EPG/XMLTV configuration](/blog/iptv-epg-not-working-3.webp)
 
@@ -449,7 +449,7 @@ The safest option is to obtain the current EPG information directly from your le
 
 An incorrect date or time can cause EPG information to appear at the wrong time.
 
-This is especially common after changing devices, resetting a Smart TV, or manually changing the time zone.
+This is especially common after changing devices, resetting a [Smart TV](/installation), or manually changing the time zone.
 
 Make sure your device is configured to use the correct:
 
@@ -472,7 +472,7 @@ Check the EPG or IPTV application's time zone settings.
 
 Depending on the application, you may find options such as:
 
-- EPG Time Shift
+- [EPG Time Shift](/blog/iptv-epg-wrong-time-time-zone)
 - Time Zone
 - UTC Offset
 - Automatic Time Zone
@@ -522,7 +522,7 @@ Using software from trusted sources reduces security and compatibility risks. If
 
 Temporary application data can occasionally become corrupted.
 
-On many Android TV and Fire TV devices, you can clear an application's cache through the device settings.
+On many [Android TV](/installation) and [Fire TV](/installation) devices, you can clear an application's cache through the [device settings](/installation).
 
 The exact menu depends on your device and operating system, but it is generally located under application management.
 
@@ -599,7 +599,7 @@ If the EPG fails everywhere, investigate the EPG source or service.
 
 # IPTV EPG Troubleshooting Checklist
 
-Before contacting support, work through this quick checklist:
+Before contacting [support](/contact), work through this quick checklist:
 
 - Refresh the EPG.
 - Verify the EPG URL.
@@ -620,7 +620,7 @@ Before contacting support, work through this quick checklist:
 
 ## Why is my IPTV EPG not working?
 
-The most common causes are an incorrect EPG source, outdated guide data, incorrect time zone settings, channel mapping problems, application issues, or a temporary EPG server outage. For more common questions, see our [FAQ](/faq) page.
+The most common causes are an incorrect EPG source, outdated guide data, incorrect time zone settings, channel mapping problems, application issues, or a temporary EPG server outage. For more [common questions](/faq), see our [FAQ](/faq) page.
 
 ## Why does my IPTV work but the EPG doesn't?
 
@@ -663,7 +663,7 @@ A properly configured EPG makes IPTV much easier to use by turning a long channe
     author: "IPTVDoor",
     category: "Guides",
     coverImage: "/blog/iptv-epg-wrong-time-1.webp",
-    content: `An IPTV Electronic Program Guide (EPG) is supposed to make live television easier to navigate by showing what is currently playing and what is coming next. But sometimes the programs appear one, two, or even several hours earlier or later than they should.
+    content: `An IPTV [Electronic Program Guide](/blog/iptv-epg-not-working-causes-and-fixes) ([EPG](/blog/iptv-epg-not-working-causes-and-fixes)) is supposed to make live television easier to navigate by showing what is currently playing and what is coming next. But sometimes the programs appear one, two, or even several hours earlier or later than they should.
 
 If your IPTV EPG shows the wrong time while the channels themselves work normally, the problem is often related to time-zone configuration rather than the IPTV stream itself.
 
@@ -714,7 +714,7 @@ The best solution depends on where the time difference originates.
 
 Start with the simplest possible cause: the device itself.
 
-If your Smart TV, Fire TV device, Android TV box, phone, or computer has the wrong time zone, some IPTV applications may display EPG information incorrectly.
+If your [Smart TV](/installation), [Fire TV](/installation) device, [Android TV](/installation) box, phone, or computer has the wrong time zone, some IPTV applications may display EPG information incorrectly.
 
 Open your device's date and time settings.
 
@@ -854,7 +854,7 @@ This simple comparison can save a lot of troubleshooting time.
 
 ## 8. Check the EPG Source
 
-If your IPTV setup uses a separate EPG URL, verify that the correct source is configured.
+If your [IPTV setup](/installation) uses a separate EPG URL, verify that the correct source is configured.
 
 An incorrect or outdated EPG source can produce:
 
@@ -900,7 +900,7 @@ Enable automatic date and time if the device supports it.
 
 This is especially important on:
 
-- Android TV boxes
+- Android [TV boxes](/installation)
 - Fire TV devices
 - Smart TVs
 - Older streaming devices
@@ -969,7 +969,7 @@ Contact the provider if you have already confirmed:
 - The issue occurs on multiple devices.
 - The same channels consistently display incorrect schedules.
 
-When contacting support, provide useful details. If you have active service questions about your [IPTV subscription](/pricing), reach out to our team via [contact support](/contact).
+When contacting [support](/contact), provide useful details. If you have active service questions about your [IPTV subscription](/pricing), reach out to our team via [contact support](/contact).
 
 Tell them:
 
@@ -1059,7 +1059,7 @@ The reason is that streaming performance depends on more than your advertised in
 
 Network congestion, Wi-Fi interference, server load, stream bitrate, device performance, and routing between your ISP and the streaming server can all affect playback.
 
-This guide explains why IPTV may buffer specifically at night and what you can check before assuming that your entire IPTV setup is faulty.
+This guide explains why IPTV may buffer specifically at night and what you can check before assuming that your entire [IPTV setup](/installation) is faulty.
 
 ![IPTV Evening Nighttime Stream Buffering Troubleshooting](/blog/iptv-buffering-only-at-night-1.webp)
 
@@ -1075,7 +1075,7 @@ People return from work or school and start using:
 - Social media
 - Cloud applications
 - Smart TVs
-- Phones and tablets
+- Phones and [tablets](/installation)
 - Multiple streaming devices
 
 This increases demand on local networks and, in some situations, can also increase congestion elsewhere between your home and the streaming server.
@@ -1207,8 +1207,8 @@ If both connections buffer at exactly the same times, investigate other possibil
 Ethernet is especially useful for devices that remain in one location, such as:
 
 - Smart TVs
-- Android TV boxes (check our [device setup guide](/installation))
-- Fire TV devices with Ethernet adapters
+- [Android TV](/installation) boxes (check our [device setup guide](/installation))
+- [Fire TV](/installation) devices with Ethernet adapters
 - Desktop computers
 
 ## 6. Check Other Streaming Services
@@ -1286,7 +1286,7 @@ Pay attention to whether the affected channels share something in common:
 - Same server group
 - Same video format
 
-If HD channels work while specific 4K streams buffer, the problem may involve stream bitrate or device performance rather than basic internet connectivity.
+If HD channels work while specific [4K](/channels) streams buffer, the problem may involve stream bitrate or device performance rather than basic internet connectivity.
 
 ## 10. Check Your IPTV Player
 
@@ -1296,7 +1296,7 @@ Different IPTV players use different playback engines and buffering systems.
 
 If you experience an [IPTV black screen with working audio](/blog/iptv-black-screen-audio-works), decoder compatibility or video hardware acceleration settings could also be causing the freeze.
 
-If you consistently experience nighttime buffering, test the same legitimate IPTV account or playlist with another compatible player if your subscription permits it.
+If you consistently experience nighttime buffering, test the same legitimate IPTV account or playlist with another compatible player if your [subscription](/pricing) permits it.
 
 If one player buffers while another plays the same stream smoothly, investigate the original application's settings.
 
@@ -1372,7 +1372,7 @@ If the same pattern happens repeatedly, you have stronger evidence that peak-hou
 
 ## 14. When Should You Contact Your IPTV Provider?
 
-Contact your provider when you have already ruled out obvious local problems. Check your active [IPTV subscription](/pricing) details before submitting a support request.
+Contact your provider when you have already ruled out obvious local problems. Check your active [IPTV subscription](/pricing) details before submitting a [support](/contact) request.
 
 Give them useful information instead of only saying that the service buffers.
 
@@ -1445,7 +1445,7 @@ These patterns can point toward different causes.
 
 ### Why does IPTV only buffer at night?
 
-The evening can introduce higher demand on home networks, Wi-Fi networks, ISP infrastructure, and streaming servers. If buffering consistently begins during the same evening hours, peak-time congestion is one possible explanation. For more common questions, see our [frequently asked questions](/faq).
+The evening can introduce higher demand on home networks, Wi-Fi networks, ISP infrastructure, and streaming servers. If buffering consistently begins during the same evening hours, peak-time congestion is one possible explanation. For more [common questions](/faq), see our [frequently asked questions](/faq).
 
 ### Why is my internet fast but IPTV still buffers?
 
@@ -1494,13 +1494,13 @@ The key is to troubleshoot systematically and change one variable at a time. Thi
     author: "IPTVDoor",
     category: "Guides",
     coverImage: "/blog/iptv-channels-load-wont-play-1.webp",
-    content: `Seeing your IPTV channel list load correctly but getting no playback when you select a channel can be confusing. The playlist appears to be working, the channel names are visible, and sometimes the electronic program guide even loads — yet the video refuses to start.
+    content: `Seeing your IPTV channel list load correctly but getting no playback when you select a channel can be confusing. The playlist appears to be working, the channel names are visible, and sometimes the [electronic program guide](/blog/iptv-epg-not-working-causes-and-fixes) even loads — yet the video refuses to start.
 
-This type of problem does not always mean that your IPTV setup is broken.
+This type of problem does not always mean that your [IPTV setup](/installation) is broken.
 
 The cause can be related to the IPTV player, the stream itself, your internet connection, device compatibility, expired credentials, decoder settings, or a temporary server issue.
 
-In this guide, we will go through the most common reasons IPTV channels load but won't play and the practical checks you can perform before contacting support.
+In this guide, we will go through the most common reasons IPTV channels load but won't play and the practical checks you can perform before contacting [support](/contact).
 
 ![IPTV Channel List Loading but Video Stream Failing](/blog/iptv-channels-load-wont-play-1.webp)
 
@@ -1574,9 +1574,9 @@ Completely close the IPTV application rather than simply returning to the device
 
 Then reopen it and try the channel again.
 
-If the problem continues, force-stop the application from your device settings if that option is available.
+If the problem continues, force-stop the application from your [device settings](/installation) if that option is available.
 
-For Android-based devices, the process is usually similar to:
+For [Android](/installation)-based devices, the process is usually similar to:
 
 Settings → Apps → IPTV Player → Force Stop
 
@@ -1590,9 +1590,9 @@ The device itself can sometimes have a temporary playback or decoder problem.
 
 Restart your:
 
-- Fire TV Stick (see our [device setup guide](/installation))
-- Android TV box
-- Smart TV
+- [Fire TV](/installation) Stick (see our [device setup guide](/installation))
+- [Android TV](/installation) box
+- [Smart TV](/installation)
 - Smartphone
 - Tablet
 - Computer
@@ -1601,7 +1601,7 @@ After restarting, open the IPTV player again and test several channels.
 
 A full reboot can clear temporary memory and decoder issues that may not disappear simply by closing the application.
 
-## 5. Check Your IPTV Login and Subscription Status
+## 5. Check Your IPTV Login and [Subscription](/pricing) Status
 
 If the channel list loads but playback fails, your account may still be relevant.
 
@@ -1687,7 +1687,7 @@ Newer and higher-resolution streams may use HEVC because it can provide efficien
 
 However, device compatibility varies.
 
-If standard HD channels play but certain 4K or HEVC channels refuse to start, your device or IPTV player may have difficulty handling that specific video format.
+If standard HD channels play but certain [4K](/channels) or HEVC channels refuse to start, your device or IPTV player may have difficulty handling that specific video format.
 
 If an alternative version of the same channel is available, test it.
 
@@ -1815,7 +1815,7 @@ Live channels can behave differently from on-demand content because they require
 Check:
 
 - Whether multiple live channels fail
-- Whether VOD content still works
+- Whether [VOD](/channels) content still works
 - Whether the problem happens during peak hours
 - Whether the issue affects all devices
 
@@ -1879,7 +1879,7 @@ If your IPTV channels load but won't play, follow this order:
 
 ### Why do my IPTV channels load but not play?
 
-The playlist and channel information can load successfully while the actual video stream fails. Common causes include network problems, player compatibility, decoder settings, account limits, or a problem with the individual stream. For more common questions, see our [frequently asked questions](/faq).
+The playlist and channel information can load successfully while the actual video stream fails. Common causes include network problems, player compatibility, decoder settings, account limits, or a problem with the individual stream. For more [common questions](/faq), see our [frequently asked questions](/faq).
 
 ### Why does IPTV keep loading without starting?
 
@@ -1915,7 +1915,7 @@ If the problem continues, test another compatible IPTV player and check the devi
 
 Most importantly, identify whether the problem affects one channel, multiple channels, one device, or every device. That single distinction can significantly reduce the amount of troubleshooting required.
 
-For IPTVDoor users, keeping your streaming device, IPTV player, and network properly configured can help provide a smoother viewing experience.`
+For [IPTVDoor](/) users, keeping your streaming device, IPTV player, and network properly configured can help provide a smoother viewing experience.`
   },
   {
     id: "1",
@@ -1942,7 +1942,7 @@ When you can hear the channel but cannot see the picture, the audio and video po
 
 Your device may successfully decode the audio track while having difficulty processing the video track.
 
-This can happen with modern video codecs such as H.265/HEVC, particularly when a device or IPTV player's decoder does not properly support the specific video format.
+This can happen with modern video codecs such as H.265/HEVC, particularly when a device or IPTV player's decoder does not properly [support](/contact) the specific video format.
 
 It does not automatically mean that your [IPTV subscription](/pricing) has stopped working.
 
@@ -1973,7 +1973,7 @@ If other channels work normally, your device and IPTV application are probably f
 
 ### If many channels are affected
 
-If multiple channels produce audio but no picture, investigate your player and device settings.
+If multiple channels produce audio but no picture, investigate your player and [device settings](/installation).
 
 The issue is more likely to involve:
 
@@ -2012,7 +2012,7 @@ If hardware decoding is causing the black screen, switching to software decoding
 
 If software decoding works, the problem may be related to the hardware decoding path.
 
-However, software decoding requires more CPU resources. On an older [Fire TV Stick](/installation), Android TV box, phone, or computer, it may introduce stuttering or higher CPU usage.
+However, software decoding requires more CPU resources. On an older [Fire TV Stick](/installation), [Android TV](/installation) box, phone, or computer, it may introduce stuttering or higher CPU usage.
 
 Therefore, treat this as a diagnostic test rather than assuming software decoding is always better.
 
@@ -2034,7 +2034,7 @@ If your IPTV player shows technical information about the stream, check whether 
 - H.265 / HEVC
 - 10-bit video
 - HDR
-- 4K resolution
+- [4K](/channels) resolution
 
 If an HD or H.264 version of the same channel is available and works correctly, that is a useful indication that the issue may be related to video compatibility.
 
@@ -2046,7 +2046,7 @@ This is one of the most useful diagnostic tests.
 
 Do not immediately change dozens of settings.
 
-Instead, try playing the same channel using another compatible IPTV player. If you experience player errors or account issues, checking your credentials and subscription status on our [pricing and plans](/pricing) page is recommended.
+Instead, try playing the same channel using another compatible IPTV player. If you experience player errors or account issues, checking your credentials and [subscription](/pricing) status on our [pricing and plans](/pricing) page is recommended.
 
 If you normally use one IPTV application, test the same legitimate playlist or account on another player that supports the same format.
 
@@ -2148,7 +2148,7 @@ Channel HD → Works
 
 Channel 4K → Black screen with audio
 
-This strongly suggests that the problem may be related to the higher-resolution stream, codec, HDR format, or device capability rather than your entire IPTV setup.
+This strongly suggests that the problem may be related to the higher-resolution stream, codec, HDR format, or device capability rather than your entire [IPTV setup](/installation).
 
 ## 10. Check Your Internet Connection — But Don't Assume It's Always the Cause
 
@@ -2158,7 +2158,7 @@ However, network conditions can still affect streaming behavior.
 
 Before changing your IPTV application settings, test another channel and, if possible, another streaming service.
 
-If everything else works normally and only a particular IPTV stream produces a black screen with audio, the issue is less likely to be simple internet speed.
+If everything else works normally and only a particular IPTV stream produces a black screen with audio, the issue is less likely to be simple [internet speed](/blog/iptv-buffering-only-at-night).
 
 For 4K streaming, a stable connection is particularly important because higher-resolution streams can require considerably more bandwidth depending on their bitrate and encoding.
 
@@ -2174,7 +2174,7 @@ The difference may be:
 
 - Hardware decoder
 - Supported codec profile
-- Android version
+- [Android](/installation) version
 - IPTV player version
 - Display resolution
 - HDR capability
@@ -2224,7 +2224,7 @@ If you have audio but no picture, work through these steps in order:
 11. Check whether the stream actually contains a video track.
 12. Contact your IPTV provider if the problem affects a specific stream across multiple compatible devices.
 
-## IPTV Black Screen vs. IPTV Buffering
+## IPTV Black Screen vs. [IPTV Buffering](/blog/iptv-buffering-only-at-night)
 
 These problems can look similar, but they are not necessarily caused by the same thing.
 
@@ -2273,6 +2273,6 @@ Start with the simplest tests: try another channel, restart the player, switch t
 
 If the problem only affects certain channels or formats, pay particular attention to codec and device compatibility. If the same stream fails everywhere, the issue may be with the stream itself rather than your device.
 
-For users building an IPTV setup around IPTVDoor, choosing a compatible player and device is just as important as having a stable internet connection. A properly configured player can make a significant difference in everyday viewing.`
+For users building an IPTV setup around [IPTVDoor](/), choosing a compatible player and device is just as important as having a stable internet connection. A properly configured player can make a significant difference in everyday viewing.`
   }
 ];
