@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { ArrowLeft } from "lucide-react";
 import ArticleFAQAccordion from "@/components/blog/ArticleFAQAccordion";
+import BlogOfferCard from "@/components/blog/BlogOfferCard";
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({
@@ -84,7 +85,13 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     h3: ({ node, ...props }: any) => <h3 className="text-xl font-semibold mt-8 mb-4 text-on-surface" {...props} />,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    p: ({ node, ...props }: any) => <p className="mb-6 leading-relaxed" {...props} />,
+    p: ({ node, children, ...props }: any) => {
+      const text = String(children?.[0] || '');
+      if (text === '[IPTVDOOR_OFFER_CARD]') {
+        return <BlogOfferCard />;
+      }
+      return <p className="mb-6 leading-relaxed" {...props}>{children}</p>;
+    },
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     ul: ({ node, ...props }: any) => <ul className="list-disc pl-6 mb-6 space-y-2" {...props} />,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
